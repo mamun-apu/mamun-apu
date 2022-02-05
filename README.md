@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Fullstack development
 - 💬 Ask me about ... JavaScript
 - 📫 How to reach me: ... Linkedin - @mamun-apu
-- 😄 Pronouns: ... Hi/His
+- 😄 Pronouns: ... He/His
 - ⚡ Fun fact: ... I kill bot!
 
