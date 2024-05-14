@@ -2,12 +2,11 @@
 
 
 
-- 🔭 I’m currently working on ... ReactJs
-- 🌱 I’m currently learning ... Java, pl/sql
-- 👯 I’m looking to collaborate on ... Front-End development
-- 🤔 I’m looking for help with ... Fullstack development
-- 💬 Ask me about ... JavaScript
+- 🔭 I’m currently working on ... Java, pl/sql
+- 🌱 I’m currently learning ... System design
+- 🌱 I'm experienced in JavaScript, Typescript, ReactJs, NextJS
+- 👯 I’m looking to collaborate on ... Full stack development
 - 📫 How to reach me: ... Linkedin - @mamun-apu
 - 😄 Pronouns: ... He/His
-- ⚡ Fun fact: ... I kill bot!
+- ⚡ Fun fact: ... I like to kill bots in PUBG!
 
