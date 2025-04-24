@@ -16,7 +16,7 @@ Welcome to my corner of GitHub! I’m a budding developer passionate about build
 ---
 
 ## My Toolkit 🛠️
-- HTML | CSS | JavaScript | Java | MySQL
+- Java |  JavaScript |  MySQL | HTML | CSS  
 - Git | VS Code | Jira
 
 ---
